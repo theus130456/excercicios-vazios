@@ -1,0 +1,1 @@
+let largura= Number(prompt("digita um valor na area do quadrado:"))
